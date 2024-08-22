@@ -14,3 +14,4 @@ Goal:
 - Memory allocation (malloc)
 - Contiguous allocation (calloc)
 - Re-allocation (realloc)
+- Free memory (free)
